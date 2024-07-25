@@ -1,10 +1,10 @@
 # Web 2 - Fetch API Exercise
 
-Goal: Display weather data on a webpage using Fetch API
+**Goal**: Display weather data on a webpage using Fetch API
 
-API URL: `https://api.open-meteo.com/v1/forecast?latitude=49.2497&longitude=-123.1193&current=temperature_2m,is_day,rain,showers,wind_speed_10m&timezone=auto&forecast_days=1`
+**API URL**: `https://api.open-meteo.com/v1/forecast?latitude=49.2497&longitude=-123.1193&current=temperature_2m,is_day,rain,showers,wind_speed_10m&timezone=auto&forecast_days=1`
 
-Result: [https://drive.google.com/file/d/1rKAFgzAA-5Op5Pi1dwzmDVVn_x3B9sM4/view?usp=sharing]
+**Result**: [https://drive.google.com/file/d/1rKAFgzAA-5Op5Pi1dwzmDVVn_x3B9sM4/view?usp=sharing]
 
 ## Instructions
 
